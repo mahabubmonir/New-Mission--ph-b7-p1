@@ -31,7 +31,7 @@
 
 /* header section  */
 .header-container {
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(./images/banner/banner2.png);
     width: 100%;
     height: 809px;
     top: 0px;
@@ -124,7 +124,7 @@ section div h3 {
 
 .mindset-container {
 
-    background-image: url(/images/watch.png);
+    background-image: url(./images/watch.png);
     /* background: linear-gradient(90deg, #c77528 0%, rgba(114, 105, 102, 0) 100%); */
     background-repeat: no-repeat;
     border-radius: 8px;
