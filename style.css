@@ -123,8 +123,9 @@ section div h3 {
 
 .mindset-container {
 
-    /* background-image: url(./images/watch.png); */
-    background: linear-gradient(90deg, #bd612d 0%, rgba(114, 105, 102, 0) 100%);
+    background-image: url(./images/gradient1.png), url(./images/watch.png);
+    position: relative;
+    /* background: linear-gradient(90deg, #bd612d 0%, rgba(114, 105, 102, 0) 100%); */
     background-repeat: no-repeat;
     border-radius: 8px;
     width: 1140px;
