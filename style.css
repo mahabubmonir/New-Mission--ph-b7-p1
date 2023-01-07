@@ -119,13 +119,12 @@ section div h3 {
     color: rgb(139, 138, 135);
 }
 
-
 /* Always keep a positive mindset section  */
 
 .mindset-container {
 
     /* background-image: url(./images/watch.png); */
-    background: linear-gradient(90deg, #4b86ae 0%, rgba(114, 105, 102, 0) 100%);
+    background: linear-gradient(90deg, #bd612d 0%, rgba(114, 105, 102, 0) 100%);
     background-repeat: no-repeat;
     border-radius: 8px;
     width: 1140px;
@@ -174,4 +173,20 @@ footer div input {
 
 .footer-div-2 {
     margin-bottom: 140px;
+}
+
+
+.about-me-container {
+    display: flex;
+    background: linear-gradient(180deg, #4b86ae 0%, rgba(25, 9, 4, 0) 100%);
+    justify-content: space-evenly;
+    align-items: center;
+    color: rgb(26, 27, 28);
+    margin-top: 0;
+}
+
+.about-me-article {
+    align-items: center;
+    text-align: start;
+    border-radius: 10px 15px 10px solid;
 }
